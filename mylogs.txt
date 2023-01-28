@@ -1,0 +1,18 @@
+Water drank at 2023-01-28 11:44:37.120925 
+Water drank at 2023-01-28 11:45:32.535021 
+Eye relaxed at  2023-01-28 11:45:43.230483 
+Water drank at 2023-01-28 11:45:47.839661 
+Physical excercise done  at  2023-01-28 11:46:02.013887 
+Water drank at 2023-01-28 11:46:06.367795 
+Eye relaxed at  2023-01-28 11:46:08.706076 
+Water drank at 2023-01-28 11:46:15.299766 
+Eye relaxed at  2023-01-28 11:46:21.374369 
+Water drank at 2023-01-28 11:46:25.991433 
+Physical excercise done  at  2023-01-28 11:46:31.586767 
+Water drank at 2023-01-28 11:46:34.125528 
+Eye relaxed at  2023-01-28 11:46:37.468763 
+Water drank at 2023-01-28 11:46:41.618016 
+Water drank at 2023-01-28 11:46:51.457754 
+Eye relaxed at  2023-01-28 11:46:53.726742 
+Physical excercise done  at  2023-01-28 11:46:56.998430 
+Water drank at 2023-01-28 11:47:01.749706 
