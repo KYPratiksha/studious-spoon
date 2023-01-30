@@ -1,23 +1,17 @@
-# s - snake
-# w = water
-# g = gun
-# snake + water = snake
-# water + gun = water
-# snake + gun = gun
-#  10 choice
-#  while loop
-
-
+# SNAKE-WATER-GUN
+# IT'S A GAME BETWEEN COMPUTER AND USER TOTAL 10 CHANCES ARE GIVEN
 import random
 
 print("SNAKE-WATER-GUN GAME!!")
 print("s.snake\nw.water\ng.gun")
 list = ["snake", "water", "gun"]
+# TOTAL CHANCES
 c = 10
+# INITITAL USER POINTS = 0
 u = 0
+# INITITAL COMPUTER POINTS = 0
 co = 0
 while (c >= 1):
-    # c = 0
     user_inp = input("enter your choice: ")
     computer_input = random.choice(list)
     if user_inp == 's' and computer_input == 'water':
@@ -75,5 +69,6 @@ while (c >= 1):
 
     else:
         print("invalid input made")
+
 print("user wins: ", u)
 print("computer wins : ", co)
