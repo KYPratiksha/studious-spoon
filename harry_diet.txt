@@ -1,4 +1,0 @@
-breakfast = sandwich
-lunch = roti, paneer, rice
-dinner = fried rice
-breakfast = peanut butter sandwich
